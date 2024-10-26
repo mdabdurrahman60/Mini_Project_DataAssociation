@@ -1,0 +1,8 @@
+Project: users will be able to write posts
+    # We will create users
+        -add login and register 
+        -add logout
+    # Post creation
+    # react to the Post 
+    # post Delete option for the user who is owner
+    
